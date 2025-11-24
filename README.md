@@ -8,7 +8,7 @@ Wasset.Tour is a modern web platform designed to connect tourism companies with 
 
 ##  Homepage Preview
 
-![Homepage Screenshot](<insert homepage image here>)
+![Homepage Screenshot]([<insert homepage image here>](https://github.com/MalakAssad/wasset-tour/blob/main/Screenshot%202025-11-24%20225839.png?raw=true))
 
 > "Explore Syria with Confidence" — your trusted B2B platform for destination tourism services.
 
