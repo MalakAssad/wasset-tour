@@ -1,70 +1,146 @@
-# Getting Started with Create React App
+# Wasset.Tour 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Revolutionizing Syrian Tourism Through Seamless B2B Service Integration**
 
-## Available Scripts
+Wasset.Tour is a modern web platform designed to connect tourism companies with trusted service providers across Syria. Built with React and Tailwind CSS, it offers a clean, responsive interface and a powerful service management experience.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+##  Homepage Preview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Homepage Screenshot](<insert homepage image here>)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> "Explore Syria with Confidence" — your trusted B2B platform for destination tourism services.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  About Wasset.Tour
 
-### `npm run build`
+![About Page Screenshot](<insert about page image here>)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Our Mission
+To provide a reliable and efficient platform for tourism companies to connect with trusted service providers.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Our Vision
+To become the leading platform for tourism services in Syria, promoting transparency and quality.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+##  Why We Created Wasset.Tour
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Problem & Solution Screenshot](<insert problem/solution image here>)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| The Problem              | Our Solution            |
+|--------------------------|-------------------------|
+| Fragmented Market        | Centralized Platform    |
+| Time Wasting             | Efficient Search        |
+| Lack of Transparency     | Clear Pricing           |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##  Core Values
 
-## Learn More
+![Core Values Screenshot](<insert core values image here>)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Reliability**: Verified and trustworthy providers  
+- **Transparency**: Clear service and pricing info  
+- **Support**: Dedicated customer assistance
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+##  Platform Stats
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-  100+ Service Providers  
+-  500+ Successful Bookings  
+-  24/7 Customer Support
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+##  Our Services
 
-### Making a Progressive Web App
+![Services Overview Screenshot](<insert services overview image here>)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+We provide comprehensive tourism services, seamlessly connecting you with:
 
-### Advanced Configuration
+-  Hotels & Accommodation  
+-  Transportation Services  
+-  Tour Guides  
+-  Restaurants & Dining
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+##  Transportation Service Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Transportation Page Screenshot](<insert transportation page image here>)
 
-### `npm run build` fails to minify
+### Features
+- Door-to-Door Pickup  
+- Licensed Drivers  
+- Airport Transfers  
+- Inter-City Travel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Booking Info
+-  Price Range: $50–$300  
+-  Rating: 4.7/5  
+-  Contact for Booking
+
+---
+
+##  Contact Page
+
+![Contact Page Screenshot](<insert contact page image here>)
+
+### Send Us a Message
+- Company Name  
+- Your Name  
+- Email  
+- Phone  
+- Message
+
+### Contact Info
+-  Wander Tour, Main Street, Old City District  
+-  support@wandertour.com  
+-  +1 123 456 4567  
+-  Mon–Fri: 9:00 AM – 5:00 PM
+
+---
+
+##  How It Works
+
+1.  Register  
+2.  Search Services  
+3.  Book & Confirm  
+4.  Manage Orders
+
+---
+
+##  Testimonials
+
+> “Wasset.Tour helped us streamline our bookings and connect with reliable partners.”  
+— Ahmad Suleiman, Travel Agency Owner
+
+> “The platform is intuitive and saves us hours every week.”  
+— Layla Khoury, Tour Operator
+
+> “We’ve seen a huge increase in visibility since joining.”  
+— Marwan Nasser, Hotel Manager
+
+---
+
+##  Tech Stack
+
+- React  
+- React Router  
+- Tailwind CSS  
+- JavaScript  
+- Vite
+
+---
+
+##  Installation
+
+```bash
+git clone https://github.com/MalakAssad/wasset-tour.git
+cd wasset-tour
+npm install
+npm run dev
