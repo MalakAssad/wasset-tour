@@ -8,7 +8,7 @@ Wasset.Tour is a modern web platform designed to connect tourism companies with 
 
 ##  Homepage Preview
 
-## 🏠 Homepage Preview
+##  Homepage Preview
 
 ![Homepage Screenshot](https://github.com/MalakAssad/wasset-tour/blob/main/Screenshot_24-11-2025_22475_localhost.jpeg?raw=true)
 
@@ -91,20 +91,7 @@ We provide comprehensive tourism services, seamlessly connecting you with:
 
 ![Contact Page Screenshot](https://github.com/MalakAssad/wasset-tour/blob/main/Screenshot_24-11-2025_23523_localhost.jpeg?raw=true)
 
-### Send Us a Message
-- Company Name  
-- Your Name  
-- Email  
-- Phone  
-- Message
 
-### Contact Info
--  Wander Tour, Main Street, Old City District  
--  support@wandertour.com  
--  +1 123 456 4567  
--  Mon–Fri: 9:00 AM – 5:00 PM
-
----
 
 ##  How It Works
 
