@@ -6,7 +6,7 @@ Wasset.Tour is a modern web platform designed to connect tourism companies with 
 
 ---
 
-##  Homepage Preview
+
 
 ##  Homepage Preview
 
